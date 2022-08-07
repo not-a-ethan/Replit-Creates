@@ -1,0 +1,24 @@
+:root {
+  background-color: white;
+  color: lightgray;  
+}
+
+h1, h2, h3, h4, h5, h6, span, p, img, video, main, section {
+  /* flips the text direction */
+  color: lightgray;
+  -moz-transform: scale(-1, 1);
+  -webkit-transform: scale(-1, 1);
+  -o-transform: scale(-1, 1);
+  -ms-transform: scale(-1, 1);
+  transform: scale(-1, 1);
+  direction: rtl;
+  font-size: 50vh;
+}
+
+sub {
+  font-size: 7.5px;
+  color: black;
+  direction: ltr;
+  transform: scale(1, -1);
+  top: 5%
+}
