@@ -3,7 +3,7 @@ This will house all the projects from Replit Creates I have done.
 
 [Replit Creates](https://creates.replit.com/) has a new challenge every week day in the month of August 2022. The challenges can be websites or programs with no UI outside of the console.
 
-| Day | Prompt | Did I do it? | Cover page |
+| Day | Prompt | Did I do it (As of now)? | Cover page |
 | --- | --- | --- | --- |
 | 1 | Make the worst website possible | ✅ | https://replit.com/@not-ethan/WORST-WEBSITE-EVER?v=1 |
 | 2 | Create something that ages | ✅ | https://replit.com/@not-ethan/This-already-aged?v=1 |
