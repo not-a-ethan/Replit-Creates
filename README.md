@@ -10,3 +10,8 @@ This will house all the projects from Replit Creates I have done.
 | 3 | Write a story | ✅ | https://replit.com/@not-ethan/Story-time?v=1 |
 | 4 | Use only emojis | ✅ | https://replit.com/@not-ethan/emoji-translator?v=1 |
 | 5 | Make something random | ✅ | https://replit.com/@not-ethan/Random-stuff?v=1 |
+| 6 | Write a song | ❌ | |
+| 7 | Tell someone their fortune | ❌ | |
+| 8 | Make a shape that doesn't exist | ❌ | |
+| 9 | Self-portrait | ❌ | |
+| 10 | Big | ❌ | |
