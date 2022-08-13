@@ -14,4 +14,4 @@ This will house all the projects from Replit Creates I have done.
 | 7 | 8-9-2022 | Tell someone their fortune | ✅ | https://replit.com/@not-ethan/Fortune-teller?v=1 |
 | 8 | 8-10-2022 | Make a shape that doesn't exist | ✅ | https://replit.com/@not-ethan/A-non-existent-shape?v=1 |
 | 9 | 8-11-2022 | Self-portrait | ✅ | https://replit.com/@not-ethan/Self-Portrait?v=1 |
-| 10 | 8-12-2022 | Big | ❌ | |
+| 10 | 8-12-2022 | Big | ✅ | https://replit.com/@not-ethan/THIS-IS-BIG?v=1 |
