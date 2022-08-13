@@ -10,7 +10,7 @@ This will house all the projects from Replit Creates I have done.
 | 3 | 8-3-2022 | Write a story | ✅ | https://replit.com/@not-ethan/Story-time?v=1 |
 | 4 | 8-4-2022 | Use only emojis | ✅ | https://replit.com/@not-ethan/emoji-translator?v=1 |
 | 5 | 8-5-2022 | Make something random | ✅ | https://replit.com/@not-ethan/Random-stuff?v=1 |
-| 6 | 8-8-2022 | Write a song | ❌ | |
+| 6 | 8-8-2022 | Write a song | ✅ | https://replit.com/@not-ethan/Song-maker?v=1 |
 | 7 | 8-9-2022 | Tell someone their fortune | ❌ | |
 | 8 | 8-10-2022 | Make a shape that doesn't exist | ❌ | |
 | 9 | 8-11-2022 | Self-portrait | ❌ | |
