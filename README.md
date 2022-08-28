@@ -20,8 +20,8 @@ This will house all the projects from Replit Creates I have done.
 | 13 | 8-17-2022 | Make something buggy | ✅ | https://replit.com/@not-ethan/buggy?v=1 |
 | 14 | 8-18-2022 | One | ✅ | https://replit.com/@not-ethan/One?v=1 |
 | 15 | 8-19-2022 | Colorful | ✅ | https://replit.com/@not-ethan/colorful?v=1 |
-| 16 | 8-22-2022 | Add to someone else's project | ✅ | |
+| 16 | 8-22-2022 | Add to someone else's project | ✅ | https://replit.com/@not-ethan/August-18th-Replit-Creates?v=1 |
 | 17 | 8-23-2022 | Build something for a stranger | ✅ | |
 | 18 | 8-24-2022 | Play with a friend | ❌ | |
 | 29 | 8-25-2022 | Write code that someone else describes to you | ❌ | |
-| 22 | 8-26-2022 | Be someone else | ✅ | https://replit.com/@not-ethan/August-18th-Replit-Creates?v=1 |
+| 22 | 8-26-2022 | Be someone else | ✅ | |
