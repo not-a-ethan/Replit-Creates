@@ -1,0 +1,31 @@
+body {
+  display: grid;
+}
+
+.item1 {
+  background: Maroon;
+  width: 50%;
+  height: 50%;
+  grid-area: 1 / 1;
+}
+
+.item2 {
+  background: Turquoise ;
+  width: 50%;
+  height: 50%;
+  grid-area: 1 / 2;
+}
+
+.item3 {
+  background: RoyalBlue;
+  width: 50%;
+  height: 50%;
+  grid-area: 2 / 1;
+}
+
+.item4 {
+  background: PaleTurquoise;
+  width: 50%;
+  height: 50%;
+  grid-area: 2 / 2;
+}
