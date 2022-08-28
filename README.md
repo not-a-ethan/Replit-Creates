@@ -24,4 +24,4 @@ This will house all the projects from Replit Creates I have done.
 | 17 | 8-23-2022 | Build something for a stranger | ✅ | |
 | 18 | 8-24-2022 | Play with a friend | ❌ | |
 | 29 | 8-25-2022 | Write code that someone else describes to you | ❌ | |
-| 22 | 8-26-2022 | Be someone else | ✅ | |
+| 22 | 8-26-2022 | Be someone else | ✅ | https://replit.com/@not-ethan/August-18th-Replit-Creates?v=1 |
