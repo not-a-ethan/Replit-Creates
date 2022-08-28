@@ -1,0 +1,10 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+html {
+  background-image: url('https://gran.luchito.com/wp-content/uploads/2019/08/Cactus-2-826x400.jpg.webp');
+  width: 9999999999999vw;
+  height: 9999999999999vh;
+}
