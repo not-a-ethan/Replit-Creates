@@ -18,7 +18,7 @@ This will house all the projects from Replit Creates I have done.
 | 11 | 8-15-2022 | Make nothing out of something | ✅ | https://replit.com/@not-ethan/nothings?v=1 |
 | 12 | 8-16-2022 | Teach yourself a new skill | ✅ | https://replit.com/@not-ethan/new-skill?v=1 |
 | 13 | 8-17-2022 | Make something buggy | ✅ | https://replit.com/@not-ethan/buggy?v=1 |
-| 14 | 8-18-2022 | One | ✅ | |
+| 14 | 8-18-2022 | One | ✅ | https://replit.com/@not-ethan/One?v=1 |
 | 15 | 8-19-2022 | Colorful | ✅ | |
 | 16 | 8-22-2022 | Add to someone else's project | ✅ | |
 | 17 | 8-23-2022 | Build something for a stranger | ✅ | |
