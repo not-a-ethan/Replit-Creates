@@ -15,14 +15,14 @@ This will house all the projects from Replit Creates I have done.
 | 8 | 8-10-2022 | Make a shape that doesn't exist | ✅ | https://replit.com/@not-ethan/A-non-existent-shape?v=1 |
 | 9 | 8-11-2022 | Self-portrait | ✅ | https://replit.com/@not-ethan/Self-Portrait?v=1 |
 | 10 | 8-12-2022 | Big | ✅ | https://replit.com/@not-ethan/THIS-IS-BIG?v=1 |
-| 11 | 8-15-2022 | Make nothing out of something | ❌ | |
-| 12 | 8-16-2022 | Teach yourself a new skill | ❌ | |
-| 13 | 8-17-2022 | Make something buggy | ❌ | |
-| 14 | 8-18-2022 | One | ❌ | |
-| 15 | 8-19-2022 | Colorful | ❌ | |
-| 16 | 8-21-2022 | Add to someone else's project | ❌ | |
-| 17 | 8-22-2022 | Make a website that doesn't exist | ❌ | |
-| 18 | 8-23-2022 | Build something for a stranger | ❌ | |
+| 11 | 8-15-2022 | Make nothing out of something | ✅ | |
+| 12 | 8-16-2022 | Teach yourself a new skill | ✅ | |
+| 13 | 8-17-2022 | Make something buggy | ✅ | |
+| 14 | 8-18-2022 | One | ✅ | |
+| 15 | 8-19-2022 | Colorful | ✅ | |
+| 16 | 8-21-2022 | Add to someone else's project | ✅ | |
+| 17 | 8-22-2022 | Make a website that doesn't exist | ✅ | |
+| 18 | 8-23-2022 | Build something for a stranger | ✅ | |
 | 19 | 8-24-2022 | Play with a friend | ❌ | |
 | 20 | 8-25-2022 | Write code that someone else describes to you | ❌ | |
-| 21 | 8-26-2022 | Be someone else | ❌ | |
+| 21 | 8-26-2022 | Be someone else | ✅ | |
