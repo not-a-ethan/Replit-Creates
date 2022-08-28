@@ -15,3 +15,8 @@ This will house all the projects from Replit Creates I have done.
 | 8 | 8-10-2022 | Make a shape that doesn't exist | ✅ | https://replit.com/@not-ethan/A-non-existent-shape?v=1 |
 | 9 | 8-11-2022 | Self-portrait | ✅ | https://replit.com/@not-ethan/Self-Portrait?v=1 |
 | 10 | 8-12-2022 | Big | ✅ | https://replit.com/@not-ethan/THIS-IS-BIG?v=1 |
+| 11 | 8-15-2022 | Make nothing out of something | ❌ | |
+| 12 | 8-16-2022 | Teach yourself a new skill | ❌ | |
+| 13 | 8-17-2022 | Make something buggy | ❌ | |
+| 14 | 8-18-2022 | One | ❌ | |
+| 15 | 8-19-2022 | Colorful | ❌ | |
