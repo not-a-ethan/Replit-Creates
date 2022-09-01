@@ -25,3 +25,6 @@ This will house all the projects from Replit Creates I have done.
 | 18 | 8-24-2022 | Play with a friend | ❌ | |
 | 19 | 8-25-2022 | Write code that someone else describes to you | ❌ | |
 | 20 | 8-26-2022 | Be someone else | ✅ | https://replit.com/@not-ethan/I-am-GoodVessel92551?v=1 |
+| 21 | 8-29-2022 | Build your portfolio site | ❌ | |
+| 22 | 8-30-2022 | Telephone | ❌ | |
+| 23 | 8-31-2022 | Throw a party | ❌ | |
