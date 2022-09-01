@@ -23,8 +23,8 @@ This will house all the projects from Replit Creates I have done.
 | 16 | 8-22-2022 | Add to someone else's project | ✅ | https://replit.com/@not-ethan/Add-to-somebodies-project?v=1 |
 | 17 | 8-23-2022 | Build something for a stranger | ✅ | https://replit.com/@not-ethan/cactus-lots-of-them?v=1  |
 | 18 | 8-24-2022 | Play with a friend | ❌ | |
-| 19 | 8-25-2022 | Write code that someone else describes to you | ❌ | |
+| 19 | 8-25-2022 | Write code that someone else describes to you | ✅ | |
 | 20 | 8-26-2022 | Be someone else | ✅ | https://replit.com/@not-ethan/I-am-GoodVessel92551?v=1 |
-| 21 | 8-29-2022 | Build your portfolio site | ❌ | |
-| 22 | 8-30-2022 | Telephone | ❌ | |
-| 23 | 8-31-2022 | Throw a party | ❌ | |
+| 21 | 8-29-2022 | Build your portfolio site | ✅ | |
+| 22 | 8-30-2022 | Telephone | ✅ | |
+| 23 | 8-31-2022 | Throw a party | ✅ | |
